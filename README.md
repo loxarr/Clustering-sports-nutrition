@@ -113,8 +113,10 @@ scikit-learn – t‑SNE
 `Полный список см. в файле requirements.txt `
 
 ## Структура проекта
+```
 .
 ├── app.py                  # основной файл приложения Streamlit
 ├── LDA4_final.csv          # файл с данными (не включён в репозиторий)
 ├── requirements.txt        # зависимости
 └── README.md               # описание проекта
+```
